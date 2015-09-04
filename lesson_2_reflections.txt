@@ -1,0 +1,2 @@
+Initializing a repository creates the infrastructure necessary to start
+accepting commits and basically creates an empty repository without any files.
