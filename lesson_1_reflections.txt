@@ -1,0 +1,34 @@
+Viewing two versions of the file helped pinpoint the bug
+because every change was highlighted making it easier to
+focus only on those lines instead of going through every
+line of code.
+
+Being able to access the complete history of a collaborative
+file makes you a better programmer as you can see how others
+have solved certain challenges. Also just observing your own
+edits enables you to see any redundant work you have put in
+by observing which type of situations you have tried multiple
+solutions before the final one. Improving on those skills
+then makes you a more efficient programmer.
+
+Handling multiple files is a reflection of the main purpose
+of a version control tool. Multiple file commits allow the
+whole improved project to be updated without having to second
+guess separate update relationships. Multiple file commit
+implies that the whole project is up to speed on the issue
+fixed in that commit. Single file version control is simple
+and space saving for projects that only deal with a single
+file.
+
+I can use git log and git diff to view the history by first
+looking at git log output and finding which commit I wish to
+inspect. Then by using git diff comparing to the previous
+commit I can see the exact changes made.
+
+Knowing you have the ability to checkout previous commits removes
+the stress of worrying about breaking stuff. There is always
+an "undo" available. This means you can try out a lot of things
+without worrying about negative consequences.
+
+I want to use Git for all kinds of project from text writing to
+coding to building statistical models.

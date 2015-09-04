@@ -1,2 +1,7 @@
 Initializing a repository creates the infrastructure necessary to start
 accepting commits and basically creates an empty repository without any files.
+
+The staging area gives more control over the workflow and commits. While working
+directory shows all files in the project, specifying only certain ones to the
+staging area gives confidence that those will be the only files affected by the
+commit. In a word, it clarifies the process.
