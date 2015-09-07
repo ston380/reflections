@@ -5,3 +5,16 @@ The staging area gives more control over the workflow and commits. While working
 directory shows all files in the project, specifying only certain ones to the
 staging area gives confidence that those will be the only files affected by the
 commit. In a word, it clarifies the process.
+
+Using the staging are enables you to easier keep commits within a single
+logical change as you can specify the files you wish to commit. This means
+that you can work on two or more logical changes in different files in the
+working directory, but stage and commit only a single file to keep the logical
+changes in separate commits.
+
+Branches can help keeping the history of the project organized because you know
+where a branch started and the status of the master branch at that moment.
+
+Branch diagrams help you visualize the brand structure which might be confusing
+to conceptualize in other formats such as lists. Diagrams enable quick
+pinpointing of diverging branches and the flow of the project.
