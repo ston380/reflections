@@ -1,1 +1,3 @@
 
+Remote repositories allow multiple people to work on a project or allow you to sync changes you've
+made yourself on another computer. Standard advantages of cloud computing.
