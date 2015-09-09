@@ -18,3 +18,6 @@ where a branch started and the status of the master branch at that moment.
 Branch diagrams help you visualize the brand structure which might be confusing
 to conceptualize in other formats such as lists. Diagrams enable quick
 pinpointing of diverging branches and the flow of the project.
+
+Merging two branches combines the changes in each branch and orders them by
+timestamp.
