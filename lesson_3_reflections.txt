@@ -1,3 +1,18 @@
 
-Remote repositories allow multiple people to work on a project or allow you to sync changes you've
-made yourself on another computer. Standard advantages of cloud computing.
+Remote repositories allow multiple people to work on a project or allow you to
+sync changes you've made yourself on another computer. Standard advantages of
+cloud computing.
+
+Manually pulling remote repositories makes it easier to consciously stay up to
+date on the changes. Automatic pulling may in some cases make it more difficult
+to understand all the changes made by other people.
+
+Forks, clones and branches have very different purposes. While a clone is
+essentially a prepository cloned in its current state to your local
+device, forking creates that "copy" in GitHub. This means you now have access
+to a remote repository with all the data in the forked original repository and
+allows you to seamlessly work on that repository with all the benefits of cloud
+computing. A branch is a totally different concept and is all about implementing
+new ideas without the risk of messing up the project, but with the option to
+incorporate new features after they have been completed by merging the
+successful idea in the experimental branch to the master branch.

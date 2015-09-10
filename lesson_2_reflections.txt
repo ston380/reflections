@@ -21,3 +21,9 @@ pinpointing of diverging branches and the flow of the project.
 
 Merging two branches combines the changes in each branch and orders them by
 timestamp.
+
+Automatic merging of branches is very useful and generally always faster than
+manual merging. Sometimes conflicts must be manually merged, but Git also
+provides information on the conflicts so you can review and manually solve them.
+Without conflicts the automatic merging is extremely quick and painless. This
+means it
